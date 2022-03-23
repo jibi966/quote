@@ -10,7 +10,7 @@ git clone https://github.com/jibi966/quote.git
 ```bash
 npm install 
 ```
-- Change the code in node_modules/inspirational-quotes/lib/index.js
+- Change the function in node_modules/inspirational-quotes/lib/index.js
 
 ```bash
     getRandomQuote = () => {
